@@ -1,5 +1,5 @@
-Smart Parking System (Arduino + Ultrasonic Sensors)
-The Smart Parking System is an Arduino-based project that uses ultrasonic sensors to monitor the availability of parking slots in real time. Each slot is scanned, and the system determines whether it is ENGAGED or AVAILABLE based on the measured distance.
+# Smart Parking System (Arduino + Ultrasonic Sensors)
+   The Smart Parking System is an Arduino-based project that uses ultrasonic sensors to monitor the availability of parking slots in real time. Each slot is scanned, and the system determines whether it is ENGAGED or AVAILABLE based on the measured distance.
 
  Key Features
 1) Monitors 3 parking slots using ultrasonic sensors
